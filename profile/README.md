@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./logo_compact.png" alt="Krevon Studios" width="480" />
+  <img src="assets/logo_compact.png" alt="Krevon Studios" width="480" />
 </p>
 
 <h1 align="center">We Make Breathtaking Games</h1>
